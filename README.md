@@ -1,16 +1,17 @@
+<h1 align="left">Hi! I'm Nancy 👋</h1>
+
 <img 
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
   alt="illustration of a computer" 
   min-width="400px" 
   max-width="400px" 
   width="400px" 
-  align="right" 
+  align="right"
+  margin-top="400px"
 />
 
-<h1 align="left">Hi! I'm <code>Nancy 👋</code></h1>
-
 <p align="left">
- I am a <strong>Full Stack Web Development student</strong> passionate about creating web and mobile applications that solve real-world problems. I enjoy combining creativity with technology, and here I share my academic and personal projects as I continue improving and expanding my skills.
+ I am a <strong>Full Stack Web Development student</strong> passionate about creating web and mobile applications that solve real-world problems. I enjoy   combining creativity with technology, and here I share my academic and personal projects as I continue improving and expanding my skills.
 </p>
 
 <p align="left">
