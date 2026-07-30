@@ -43,6 +43,14 @@
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
     alt="MySQL" 
   />
+  <img 
+    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
+    alt="C++" 
+  />
+  <img 
+    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
+    alt="C" 
+  />
 </p>
 
 <p align="left">
@@ -88,13 +96,13 @@
 </p>
 
 <p align="left">
-  <a href="mailto:albaayvi@gmail.com">
+  <a href="nancychcruz2@gmail.com">
     <img 
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email" 
     />
   </a>
-  <a href="https://www.linkedin.com/in/alba-ayala-vilanova-26ba1517a/" target="_blank">
+  <a href="linkedin.com/in/nancychuquichambicruz" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
